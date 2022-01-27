@@ -1,3 +1,10 @@
+# To test the build
+
+clone this project to local directory
+cd into the build folder and run on a local server (e.g. python -m SimpleHTTPServer 8080 (for Mac))
+
+Or `npm install` to run the dev version and run `npm start`
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
